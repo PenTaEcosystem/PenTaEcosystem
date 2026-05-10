@@ -98,17 +98,8 @@ The non-IT background isn't a gap.
 
 ---
 
-## 📊 GitHub Stats
 
-<div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pentayuki&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6EE7B7&icon_color=6EE7B7&text_color=a0a0b0)
-&nbsp;&nbsp;
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PenTaEcosystem&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6EE7B7&text_color=a0a0b0)
-
-![Streak Stats](https://streak-stats.demolab.com?user=pentayuki&theme=tokyonight&hide_border=true&background=0d1117&stroke=6EE7B7&ring=6EE7B7&fire=FF6B35&currStreakLabel=6EE7B7)
-
-</div>
 
 ---
 

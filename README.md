@@ -67,15 +67,17 @@ No VC funding. No team. No obvious solutions.
 
 [![My Skills](https://skillicons.dev/icons?i=python,typescript,swift,js,react,fastapi,sqlite,supabase,git,vercel&theme=dark&perline=10)](https://skillicons.dev)
 
-</div>
+<br/>
 
-```text
-AI / ML     LangGraph · DSPy · Ollama · MediaPipe · Whisper · PhoBERT · ONNX
-Backend     FastAPI · Flask · Supabase · SQLite · WebSocket · n8n · Cloudflare
-Frontend    React · PySide6 · SwiftUI · Fabric.js · KaTeX
-Tooling     Git · Vercel · Win32 API · PyInstaller · BLE · WebRTC
-Languages   Vietnamese (Native) · Japanese (N3 → N2) · English (Professional)
-```
+| | |
+|---|---|
+| **AI / ML** | LangGraph · DSPy · Ollama · MediaPipe · Whisper · PhoBERT · ONNX |
+| **Backend** | FastAPI · Flask · Supabase · SQLite · WebSocket · n8n · Cloudflare |
+| **Frontend** | React · PySide6 · SwiftUI · Fabric.js · KaTeX |
+| **Tooling** | Git · Vercel · Win32 API · PyInstaller · BLE · WebRTC |
+| **Languages** | Vietnamese (Native) · Japanese (N3 → N2) · English (Professional) |
+
+</div>
 
 ---
 

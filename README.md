@@ -7,9 +7,15 @@
 
 # Yuki ⬡ Penta
 
-**Automotive Engineer → Factory Worker in Japan → Self-Taught Developer**
+<!-- HEADER WAVE -->
+<div align="center">
 
-> *"I don't follow tutorials. I follow problems."*
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,100:1a1a2e&height=200&section=header&text=Yuki%20·%20⬡%20Penta&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Automotive%20Eng%20→%20Factory%20Floor%20→%20Self-Taught%20Dev&descAlignY=58&descColor=a0a0b0&animation=fadeIn)
+
+<!-- TYPEWRITER -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=6EE7B7&center=true&vCenter=true&width=700&lines=I+don't+follow+tutorials.+I+follow+problems.;Build+for+reliability.+Design+for+real+constraints.;Local+inference+over+API+bills.+Always.;Manufacturing+taught+me+how+systems+fail.;Still+going.)](https://git.io/typing-svg)
+
+<br/>
 
 [![Portfolio](https://img.shields.io/badge/pentayuki.github.io-000?style=flat&logo=github&logoColor=white)](https://pentayuki.github.io)
 ![Location](https://img.shields.io/badge/Ho_Chi_Minh_City-FF6B35?style=flat)
@@ -56,13 +62,19 @@ No VC funding. No team. No obvious solutions.
 
 ## 🛠 Tech I Actually Use
 
+<!-- SKILL ICONS ANIMATED -->
+<div align="center">
+
+[![My Skills](https://skillicons.dev/icons?i=python,typescript,swift,js,react,fastapi,sqlite,supabase,git,vercel&theme=dark&perline=10)](https://skillicons.dev)
+
+</div>
+
 ```text
-Languages   Python · TypeScript · Swift · JavaScript
 AI / ML     LangGraph · DSPy · Ollama · MediaPipe · Whisper · PhoBERT · ONNX
 Backend     FastAPI · Flask · Supabase · SQLite · WebSocket · n8n · Cloudflare
 Frontend    React · PySide6 · SwiftUI · Fabric.js · KaTeX
 Tooling     Git · Vercel · Win32 API · PyInstaller · BLE · WebRTC
-Languages   Vietnamese (Native) · Japanese (N3 → working on N2) · English (Professional)
+Languages   Vietnamese (Native) · Japanese (N3 → N2) · English (Professional)
 ```
 
 ---
@@ -86,6 +98,30 @@ The non-IT background isn't a gap.
 
 ---
 
+## 📊 GitHub Stats
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pentayuki&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6EE7B7&icon_color=6EE7B7&text_color=a0a0b0)
+&nbsp;&nbsp;
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pentayuki&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6EE7B7&text_color=a0a0b0)
+
+![Streak Stats](https://streak-stats.demolab.com?user=pentayuki&theme=tokyonight&hide_border=true&background=0d1117&stroke=6EE7B7&ring=6EE7B7&fire=FF6B35&currStreakLabel=6EE7B7)
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+![snake gif](https://github.com/pentayuki/pentayuki/blob/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
+---
+
 ## 📬 Open To
 
 - **AI Integration Engineer** — especially where AI is the core product, not the feature
@@ -94,10 +130,9 @@ The non-IT background isn't a gap.
 
 ---
 
+<!-- FOOTER WAVE -->
 <div align="center">
 
-Built everything above without a CS degree.
-
-**Still going.**
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:0f0f0f&height=120&section=footer&text=Built+everything+above+without+a+CS+degree.+Still+going.&fontSize=14&fontColor=a0a0b0&fontAlignY=65&animation=fadeIn)
 
 </div>

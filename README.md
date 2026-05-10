@@ -2,7 +2,10 @@
 <!-- Header -->
 <div align="center">
 
-# Kurumi ⬡ Penta
+<!-- Header -->
+<div align="center">
+
+# Yuki · ⬡ Penta
 
 **Automotive Engineer → Factory Worker in Japan → Self-Taught Developer**
 
@@ -52,4 +55,49 @@ No VC funding. No team. No obvious solutions.
 ---
 
 ## 🛠 Tech I Actually Use
-[https://github.com/PenTaEcosystem/Pentamiv1]
+
+```text
+Languages   Python · TypeScript · Swift · JavaScript
+AI / ML     LangGraph · DSPy · Ollama · MediaPipe · Whisper · PhoBERT · ONNX
+Backend     FastAPI · Flask · Supabase · SQLite · WebSocket · n8n · Cloudflare
+Frontend    React · PySide6 · SwiftUI · Fabric.js · KaTeX
+Tooling     Git · Vercel · Win32 API · PyInstaller · BLE · WebRTC
+Languages   Vietnamese (Native) · Japanese (N3 → working on N2) · English (Professional)
+```
+
+---
+
+## 📐 How I Build
+
+Every project starts the same way: **a problem that bothers me enough to fix**.
+
+Architecture isn't planned upfront — it emerges from real constraints:
+
+- **Local inference over API bills.** If it can run offline, it runs offline.
+- **SQLite over managed databases** when latency and cost matter more than scale.
+- **Offline-first** when the user's connectivity can't be trusted.
+
+I've shipped multi-agent orchestration, cross-OS server-client architectures, real-time WebSocket audio pipelines, and BLE mesh networks — not from a course, but because the problem needed them to exist.
+
+I implement patterns before I know their names.
+
+The non-IT background isn't a gap.  
+**Manufacturing teaches you that systems fail in the real world, not in tests.**
+
+---
+
+## 📬 Open To
+
+- **AI Integration Engineer** — especially where AI is the core product, not the feature
+- **Bridge Software Engineer at Japanese companies** — JLPT N3, lived and worked in Japan, N2 in progress
+- **Interesting problems that don't have obvious solutions yet**
+
+---
+
+<div align="center">
+
+Built everything above without a CS degree.
+
+**Still going.**
+
+</div>

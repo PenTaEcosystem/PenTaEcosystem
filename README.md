@@ -52,5 +52,4 @@ No VC funding. No team. No obvious solutions.
 ---
 
 ## 🛠 Tech I Actually Use
-[
-```text](https://github.com/PenTaEcosystem/Pentamiv1)
+[https://github.com/PenTaEcosystem/Pentamiv1]

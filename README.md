@@ -116,7 +116,7 @@ The non-IT background isn't a gap.
 
 <div align="center">
 
-![snake gif](https://github.com/pentayuki/pentayuki/blob/output/github-contribution-grid-snake-dark.svg)
+![snake gif]([https://github.com/pentayuki/pentayuki/blob/output](https://github.com/PenTaEcosystem/PenTaEcosystem/github-contribution-grid-snake-dark.svg)
 
 </div>
 

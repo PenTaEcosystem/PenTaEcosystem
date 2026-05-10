@@ -2,7 +2,7 @@
 <!-- Header -->
 <div align="center">
 
-# Yuki · ⬡ Penta
+# Kurumi ⬡ Penta
 
 **Automotive Engineer → Factory Worker in Japan → Self-Taught Developer**
 
@@ -52,5 +52,5 @@ No VC funding. No team. No obvious solutions.
 ---
 
 ## 🛠 Tech I Actually Use
-
-```text
+[
+```text](https://github.com/PenTaEcosystem/Pentamiv1)

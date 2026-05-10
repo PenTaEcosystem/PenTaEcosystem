@@ -5,7 +5,7 @@
 <!-- Header -->
 <div align="center">
 
-# Yuki · ⬡ Penta
+# Yuki ⬡ Penta
 
 **Automotive Engineer → Factory Worker in Japan → Self-Taught Developer**
 

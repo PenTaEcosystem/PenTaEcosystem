@@ -17,7 +17,7 @@
 
 <br/>
 
-[Portfolio](https://pentayuki.github.io)
+[![Portfolio](https://img.shields.io/badge/pentayuki.github.io-000?style=flat&logo=github&logoColor=white)](https://pentayuki.github.io)
 ![Location](https://img.shields.io/badge/Ho_Chi_Minh_City-FF6B35?style=flat)
 ![Status](https://img.shields.io/badge/Available_Now-22C55E?style=flat)
 
